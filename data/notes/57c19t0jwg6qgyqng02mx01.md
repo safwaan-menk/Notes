@@ -1,0 +1,11 @@
+
+- [[coding.courses.databases.DatabaseDesignCourse.Data-Integrity]]:
+  - Repeating Data
+  - Updated Data
+- Levels of Database Design
+  - Conceptual
+    - draw it out, decide tables and dependencies
+  - Logical
+    - structure tables, design schema
+  - Physicals 
+    - Decide tools and implementation

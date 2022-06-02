@@ -1,0 +1,218 @@
+{
+  "roots": [
+    {
+      "key": "nvix4le1j3rae1dzsb81q5l",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Public",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "odn7kcyxxjkb7e7ewb9mzag",
+          "title": "Coding",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Public",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "9q5erfm3u67uem094m5zx5f",
+              "title": "Courses",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Public",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "zyakwyjrgs7ebcs4yeu5qzc",
+                  "title": "Databases",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Public",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "myp0pwp8162kk73hw52rb8x",
+                      "title": "DatabaseDesignCourse",
+                      "icon": "plusOutlined",
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Public",
+                      "navExclude": false,
+                      "children": [
+                        {
+                          "key": "kkighgo9knkkpouzcr08tpm",
+                          "title": "Data-Integrity",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Public",
+                          "navExclude": false,
+                          "children": []
+                        },
+                        {
+                          "key": "rzggviv5075htgv36emvqdy",
+                          "title": "Design-Many-to-Many",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Public",
+                          "navExclude": false,
+                          "children": []
+                        },
+                        {
+                          "key": "f918rm2sdym2p72tw3r1551",
+                          "title": "Introduction-to-Keys",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Public",
+                          "navExclude": false,
+                          "children": []
+                        },
+                        {
+                          "key": "3y6cl9ygq7dq5r88ynzzajn",
+                          "title": "RDBMS",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Public",
+                          "navExclude": false,
+                          "children": []
+                        },
+                        {
+                          "key": "4tbv52mqqpx4htcexu83d3u",
+                          "title": "What-Is-A-Relational-Database",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Public",
+                          "navExclude": false,
+                          "children": []
+                        },
+                        {
+                          "key": "57c19t0jwg6qgyqng02mx01",
+                          "title": "What-Is-Database-Design",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Public",
+                          "navExclude": false,
+                          "children": []
+                        },
+                        {
+                          "key": "idcblehxuepdhfmsby9py7h",
+                          "title": "syllabus",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Public",
+                          "navExclude": false,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "qzd33s065uz39bycvyt6ote",
+              "title": "Interviews",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Public",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "jjuckfiryz71jnq6yjeyn5e",
+                  "title": "Leetcode",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Public",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "9n91pf7wlzacfqtuma0pqx5",
+                      "title": "Solutions",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Public",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "wzjdzmmxjzrx68ppc98u5ha",
+          "title": "Daily",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Public",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "xmqcaybs0tkf33ql8pz3xe0",
+              "title": "Journal",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Public",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "tavq7gy2a9b5ekb1x480236",
+                  "title": "2022",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Public",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "7xcbgkcs52znx4miesg1uq9",
+                      "title": "06",
+                      "icon": "plusOutlined",
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Public",
+                      "navExclude": false,
+                      "children": [
+                        {
+                          "key": "mqxha1cc9z30kqqvgza5b28",
+                          "title": "2022-06-02",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Public",
+                          "navExclude": false,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "nvix4le1j3rae1dzsb81q5l": null,
+    "wzjdzmmxjzrx68ppc98u5ha": "nvix4le1j3rae1dzsb81q5l",
+    "xmqcaybs0tkf33ql8pz3xe0": "wzjdzmmxjzrx68ppc98u5ha",
+    "tavq7gy2a9b5ekb1x480236": "xmqcaybs0tkf33ql8pz3xe0",
+    "7xcbgkcs52znx4miesg1uq9": "tavq7gy2a9b5ekb1x480236",
+    "mqxha1cc9z30kqqvgza5b28": "7xcbgkcs52znx4miesg1uq9",
+    "odn7kcyxxjkb7e7ewb9mzag": "nvix4le1j3rae1dzsb81q5l",
+    "qzd33s065uz39bycvyt6ote": "odn7kcyxxjkb7e7ewb9mzag",
+    "jjuckfiryz71jnq6yjeyn5e": "qzd33s065uz39bycvyt6ote",
+    "9n91pf7wlzacfqtuma0pqx5": "jjuckfiryz71jnq6yjeyn5e",
+    "9q5erfm3u67uem094m5zx5f": "odn7kcyxxjkb7e7ewb9mzag",
+    "zyakwyjrgs7ebcs4yeu5qzc": "9q5erfm3u67uem094m5zx5f",
+    "myp0pwp8162kk73hw52rb8x": "zyakwyjrgs7ebcs4yeu5qzc",
+    "idcblehxuepdhfmsby9py7h": "myp0pwp8162kk73hw52rb8x",
+    "57c19t0jwg6qgyqng02mx01": "myp0pwp8162kk73hw52rb8x",
+    "4tbv52mqqpx4htcexu83d3u": "myp0pwp8162kk73hw52rb8x",
+    "3y6cl9ygq7dq5r88ynzzajn": "myp0pwp8162kk73hw52rb8x",
+    "f918rm2sdym2p72tw3r1551": "myp0pwp8162kk73hw52rb8x",
+    "rzggviv5075htgv36emvqdy": "myp0pwp8162kk73hw52rb8x",
+    "kkighgo9knkkpouzcr08tpm": "myp0pwp8162kk73hw52rb8x"
+  }
+}

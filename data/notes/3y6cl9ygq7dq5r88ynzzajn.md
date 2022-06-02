@@ -1,0 +1,8 @@
+- **R**DBMS -> **Relational**Database Management System
+	- can run queries on db tables
+	- view mechanim: change surface appearance of data
+	- transactions
+	- Tools examples:
+		- SQL Server
+		- MySQL
+		- PostgreSQL
