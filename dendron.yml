@@ -89,7 +89,8 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
-    siteurl: https://safwaan-menk.github.io/{REPO_NAME}/.
+    assetsPrefix: /Notes
+    siteurl: https://safwaan-menk.github.io/Notes/.
     siteHierarchies:
         - root
     writeStubs: false
