@@ -84,6 +84,7 @@ preview:
     automaticallyShowPreview: false
 publishing:
     enableFMTitle: true
+    theme: dark
     enableNoteTitleForLink: true
     enableMermaid: true
     enablePrettyRefs: true
