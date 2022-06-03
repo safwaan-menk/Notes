@@ -2,13 +2,13 @@
 id: dgr7lmand3fxcubi8h5ee1j
 title: The Surprising Power of Atomic Habits
 desc: ''
-updated: 1654242540599
+updated: 1654247629818
 created: 1654242100981
 ---
 ### Why Small Habits Make a Big Difference
 - habit forming is like compound interest. As time goes on your QOL will increase exponentially
 
-![Results vs Time (on mouse over)](/assets/images/resultsvstime.png){width: 700px}
+![Results vs Time](/assets/images/resultsvstime.png){width: 700px}
 
 - 1% better each day = 37 times better in a year
 - Positive Compounding
