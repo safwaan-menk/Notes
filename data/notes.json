@@ -2,17 +2,28 @@
   "notes": {
     "403": {
       "vault": {
+<<<<<<< HEAD
         "fsPath": ".",
         "selfContained": true,
         "name": "Public"
+=======
+        "fsPath": "dependencies\\localhost\\private",
+        "selfContained": true,
+        "name": "private"
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       },
       "fname": "403",
       "id": "403",
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
+<<<<<<< HEAD
       "updated": 1654195763823,
       "created": 1654195763823,
+=======
+      "updated": 1654235884391,
+      "created": 1654235884391,
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "desc": "",
       "links": [],
       "anchors": {},
@@ -58,12 +69,17 @@
         }
       },
       "children": [
+<<<<<<< HEAD
         "odn7kcyxxjkb7e7ewb9mzag",
         "wzjdzmmxjzrx68ppc98u5ha"
+=======
+        "h65zmh4xu5lnbuhxiax7wfp"
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       ],
       "parent": null,
       "data": {}
     },
+<<<<<<< HEAD
     "wzjdzmmxjzrx68ppc98u5ha": {
       "fname": "daily",
       "stub": true,
@@ -181,6 +197,9 @@
       "data": {}
     },
     "odn7kcyxxjkb7e7ewb9mzag": {
+=======
+    "h65zmh4xu5lnbuhxiax7wfp": {
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "fname": "coding",
       "stub": true,
       "vault": {
@@ -190,21 +209,36 @@
       },
       "schemaStub": false,
       "type": "note",
+<<<<<<< HEAD
       "updated": 1654195763623,
       "created": 1654195763623,
       "id": "odn7kcyxxjkb7e7ewb9mzag",
+=======
+      "updated": 1654235884222,
+      "created": 1654235884222,
+      "id": "h65zmh4xu5lnbuhxiax7wfp",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
+<<<<<<< HEAD
         "9q5erfm3u67uem094m5zx5f",
         "qzd33s065uz39bycvyt6ote"
+=======
+        "8gg5f57xpjylwjeturjirgp",
+        "3eizcp70bacoxj50w21uz0i"
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       ],
       "parent": "nvix4le1j3rae1dzsb81q5l",
       "data": {},
       "title": "Coding"
     },
+<<<<<<< HEAD
     "qzd33s065uz39bycvyt6ote": {
+=======
+    "3eizcp70bacoxj50w21uz0i": {
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "fname": "coding.interviews",
       "stub": true,
       "vault": {
@@ -214,13 +248,20 @@
       },
       "schemaStub": false,
       "type": "note",
+<<<<<<< HEAD
       "updated": 1654195763624,
       "created": 1654195763624,
       "id": "qzd33s065uz39bycvyt6ote",
+=======
+      "updated": 1654235884223,
+      "created": 1654235884223,
+      "id": "3eizcp70bacoxj50w21uz0i",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
+<<<<<<< HEAD
         "jjuckfiryz71jnq6yjeyn5e"
       ],
       "parent": "odn7kcyxxjkb7e7ewb9mzag",
@@ -228,6 +269,15 @@
       "title": "Interviews"
     },
     "jjuckfiryz71jnq6yjeyn5e": {
+=======
+        "yfh3qzkr9jwoj574823c6hi"
+      ],
+      "parent": "h65zmh4xu5lnbuhxiax7wfp",
+      "data": {},
+      "title": "Interviews"
+    },
+    "yfh3qzkr9jwoj574823c6hi": {
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "fname": "coding.interviews.leetcode",
       "stub": true,
       "vault": {
@@ -237,16 +287,26 @@
       },
       "schemaStub": false,
       "type": "note",
+<<<<<<< HEAD
       "updated": 1654195763624,
       "created": 1654195763624,
       "id": "jjuckfiryz71jnq6yjeyn5e",
+=======
+      "updated": 1654235884223,
+      "created": 1654235884223,
+      "id": "yfh3qzkr9jwoj574823c6hi",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
         "9n91pf7wlzacfqtuma0pqx5"
       ],
+<<<<<<< HEAD
       "parent": "qzd33s065uz39bycvyt6ote",
+=======
+      "parent": "3eizcp70bacoxj50w21uz0i",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "data": {},
       "title": "Leetcode"
     },
@@ -254,7 +314,11 @@
       "id": "9n91pf7wlzacfqtuma0pqx5",
       "title": "Solutions",
       "desc": "",
+<<<<<<< HEAD
       "updated": 1654192829179,
+=======
+      "updated": 1654198291331,
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "created": 1654192816507,
       "custom": {},
       "fname": "coding.interviews.leetcode.solutions",
@@ -264,6 +328,7 @@
         "selfContained": true,
         "name": "Public"
       },
+<<<<<<< HEAD
       "contentHash": "e16994d735a7dbadb119220439aa316a",
       "links": [],
       "anchors": {},
@@ -272,6 +337,16 @@
       "data": {}
     },
     "9q5erfm3u67uem094m5zx5f": {
+=======
+      "contentHash": "0acd092dfc046d84ef256b117998aa05",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "yfh3qzkr9jwoj574823c6hi",
+      "data": {}
+    },
+    "8gg5f57xpjylwjeturjirgp": {
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "fname": "coding.courses",
       "stub": true,
       "vault": {
@@ -281,16 +356,26 @@
       },
       "schemaStub": false,
       "type": "note",
+<<<<<<< HEAD
       "updated": 1654195763623,
       "created": 1654195763623,
       "id": "9q5erfm3u67uem094m5zx5f",
+=======
+      "updated": 1654235884222,
+      "created": 1654235884222,
+      "id": "8gg5f57xpjylwjeturjirgp",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
         "zyakwyjrgs7ebcs4yeu5qzc"
       ],
+<<<<<<< HEAD
       "parent": "odn7kcyxxjkb7e7ewb9mzag",
+=======
+      "parent": "h65zmh4xu5lnbuhxiax7wfp",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "data": {},
       "title": "Courses"
     },
@@ -312,12 +397,21 @@
       "links": [],
       "anchors": {},
       "children": [
+<<<<<<< HEAD
         "myp0pwp8162kk73hw52rb8x"
       ],
       "parent": "9q5erfm3u67uem094m5zx5f",
       "data": {}
     },
     "myp0pwp8162kk73hw52rb8x": {
+=======
+        "xs98fg0i081l1mfqiokseb1"
+      ],
+      "parent": "8gg5f57xpjylwjeturjirgp",
+      "data": {}
+    },
+    "xs98fg0i081l1mfqiokseb1": {
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "fname": "coding.courses.databases.DatabaseDesignCourse",
       "stub": true,
       "vault": {
@@ -327,9 +421,15 @@
       },
       "schemaStub": false,
       "type": "note",
+<<<<<<< HEAD
       "updated": 1654195763625,
       "created": 1654195763625,
       "id": "myp0pwp8162kk73hw52rb8x",
+=======
+      "updated": 1654235884223,
+      "created": 1654235884224,
+      "id": "xs98fg0i081l1mfqiokseb1",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "desc": "",
       "links": [],
       "anchors": {},
@@ -530,7 +630,11 @@
         }
       },
       "children": [],
+<<<<<<< HEAD
       "parent": "myp0pwp8162kk73hw52rb8x",
+=======
+      "parent": "xs98fg0i081l1mfqiokseb1",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "data": {}
     },
     "57c19t0jwg6qgyqng02mx01": {
@@ -601,7 +705,11 @@
       ],
       "anchors": {},
       "children": [],
+<<<<<<< HEAD
       "parent": "myp0pwp8162kk73hw52rb8x",
+=======
+      "parent": "xs98fg0i081l1mfqiokseb1",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "data": {}
     },
     "4tbv52mqqpx4htcexu83d3u": {
@@ -644,7 +752,11 @@
       ],
       "anchors": {},
       "children": [],
+<<<<<<< HEAD
       "parent": "myp0pwp8162kk73hw52rb8x",
+=======
+      "parent": "xs98fg0i081l1mfqiokseb1",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "data": {}
     },
     "3y6cl9ygq7dq5r88ynzzajn": {
@@ -687,7 +799,11 @@
       ],
       "anchors": {},
       "children": [],
+<<<<<<< HEAD
       "parent": "myp0pwp8162kk73hw52rb8x",
+=======
+      "parent": "xs98fg0i081l1mfqiokseb1",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "data": {}
     },
     "f918rm2sdym2p72tw3r1551": {
@@ -730,7 +846,11 @@
       ],
       "anchors": {},
       "children": [],
+<<<<<<< HEAD
       "parent": "myp0pwp8162kk73hw52rb8x",
+=======
+      "parent": "xs98fg0i081l1mfqiokseb1",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "data": {}
     },
     "rzggviv5075htgv36emvqdy": {
@@ -773,7 +893,11 @@
       ],
       "anchors": {},
       "children": [],
+<<<<<<< HEAD
       "parent": "myp0pwp8162kk73hw52rb8x",
+=======
+      "parent": "xs98fg0i081l1mfqiokseb1",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "data": {}
     },
     "kkighgo9knkkpouzcr08tpm": {
@@ -838,7 +962,11 @@
       ],
       "anchors": {},
       "children": [],
+<<<<<<< HEAD
       "parent": "myp0pwp8162kk73hw52rb8x",
+=======
+      "parent": "xs98fg0i081l1mfqiokseb1",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "data": {}
     }
   },
@@ -881,8 +1009,12 @@
         }
       },
       "children": [
+<<<<<<< HEAD
         "odn7kcyxxjkb7e7ewb9mzag",
         "wzjdzmmxjzrx68ppc98u5ha"
+=======
+        "h65zmh4xu5lnbuhxiax7wfp"
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       ],
       "parent": null,
       "data": {},
@@ -927,8 +1059,12 @@
       }
     },
     "children": [
+<<<<<<< HEAD
       "odn7kcyxxjkb7e7ewb9mzag",
       "wzjdzmmxjzrx68ppc98u5ha"
+=======
+      "h65zmh4xu5lnbuhxiax7wfp"
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
     ],
     "parent": null,
     "data": {},
@@ -936,6 +1072,14 @@
   },
   "vaults": [
     {
+<<<<<<< HEAD
+=======
+      "fsPath": "dependencies\\localhost\\private",
+      "selfContained": true,
+      "name": "private"
+    },
+    {
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
       "fsPath": ".",
       "selfContained": true,
       "name": "Public"

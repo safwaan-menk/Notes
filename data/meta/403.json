@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"vault":{"fsPath":".","selfContained":true,"name":"Public"},"fname":"403","id":"403","title":"This page has not yet sprouted","schemaStub":false,"type":"note","updated":1654195763823,"created":1654195763823,"desc":"","links":[],"anchors":{},"children":[],"parent":null,"data":{}}
+=======
+{"vault":{"fsPath":"dependencies\\localhost\\private","selfContained":true,"name":"private"},"fname":"403","id":"403","title":"This page has not yet sprouted","schemaStub":false,"type":"note","updated":1654235884391,"created":1654235884391,"desc":"","links":[],"anchors":{},"children":[],"parent":null,"data":{}}
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb

@@ -9,7 +9,11 @@
       "navExclude": false,
       "children": [
         {
+<<<<<<< HEAD
           "key": "odn7kcyxxjkb7e7ewb9mzag",
+=======
+          "key": "h65zmh4xu5lnbuhxiax7wfp",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
           "title": "Coding",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": false,
@@ -17,7 +21,11 @@
           "navExclude": false,
           "children": [
             {
+<<<<<<< HEAD
               "key": "9q5erfm3u67uem094m5zx5f",
+=======
+              "key": "8gg5f57xpjylwjeturjirgp",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
               "title": "Courses",
               "icon": "plusOutlined",
               "hasTitleNumberOutlined": false,
@@ -33,7 +41,11 @@
                   "navExclude": false,
                   "children": [
                     {
+<<<<<<< HEAD
                       "key": "myp0pwp8162kk73hw52rb8x",
+=======
+                      "key": "xs98fg0i081l1mfqiokseb1",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
                       "title": "DatabaseDesignCourse",
                       "icon": "plusOutlined",
                       "hasTitleNumberOutlined": false,
@@ -110,7 +122,11 @@
               ]
             },
             {
+<<<<<<< HEAD
               "key": "qzd33s065uz39bycvyt6ote",
+=======
+              "key": "3eizcp70bacoxj50w21uz0i",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
               "title": "Interviews",
               "icon": "plusOutlined",
               "hasTitleNumberOutlined": false,
@@ -118,7 +134,11 @@
               "navExclude": false,
               "children": [
                 {
+<<<<<<< HEAD
                   "key": "jjuckfiryz71jnq6yjeyn5e",
+=======
+                  "key": "yfh3qzkr9jwoj574823c6hi",
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
                   "title": "Leetcode",
                   "icon": "plusOutlined",
                   "hasTitleNumberOutlined": false,
@@ -139,6 +159,7 @@
               ]
             }
           ]
+<<<<<<< HEAD
         },
         {
           "key": "wzjdzmmxjzrx68ppc98u5ha",
@@ -188,6 +209,8 @@
               ]
             }
           ]
+=======
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
         }
       ]
     }
@@ -195,6 +218,7 @@
   "child2parent": {
     "403": null,
     "nvix4le1j3rae1dzsb81q5l": null,
+<<<<<<< HEAD
     "wzjdzmmxjzrx68ppc98u5ha": "nvix4le1j3rae1dzsb81q5l",
     "xmqcaybs0tkf33ql8pz3xe0": "wzjdzmmxjzrx68ppc98u5ha",
     "tavq7gy2a9b5ekb1x480236": "xmqcaybs0tkf33ql8pz3xe0",
@@ -214,5 +238,21 @@
     "f918rm2sdym2p72tw3r1551": "myp0pwp8162kk73hw52rb8x",
     "rzggviv5075htgv36emvqdy": "myp0pwp8162kk73hw52rb8x",
     "kkighgo9knkkpouzcr08tpm": "myp0pwp8162kk73hw52rb8x"
+=======
+    "h65zmh4xu5lnbuhxiax7wfp": "nvix4le1j3rae1dzsb81q5l",
+    "3eizcp70bacoxj50w21uz0i": "h65zmh4xu5lnbuhxiax7wfp",
+    "yfh3qzkr9jwoj574823c6hi": "3eizcp70bacoxj50w21uz0i",
+    "9n91pf7wlzacfqtuma0pqx5": "yfh3qzkr9jwoj574823c6hi",
+    "8gg5f57xpjylwjeturjirgp": "h65zmh4xu5lnbuhxiax7wfp",
+    "zyakwyjrgs7ebcs4yeu5qzc": "8gg5f57xpjylwjeturjirgp",
+    "xs98fg0i081l1mfqiokseb1": "zyakwyjrgs7ebcs4yeu5qzc",
+    "idcblehxuepdhfmsby9py7h": "xs98fg0i081l1mfqiokseb1",
+    "57c19t0jwg6qgyqng02mx01": "xs98fg0i081l1mfqiokseb1",
+    "4tbv52mqqpx4htcexu83d3u": "xs98fg0i081l1mfqiokseb1",
+    "3y6cl9ygq7dq5r88ynzzajn": "xs98fg0i081l1mfqiokseb1",
+    "f918rm2sdym2p72tw3r1551": "xs98fg0i081l1mfqiokseb1",
+    "rzggviv5075htgv36emvqdy": "xs98fg0i081l1mfqiokseb1",
+    "kkighgo9knkkpouzcr08tpm": "xs98fg0i081l1mfqiokseb1"
+>>>>>>> 5412df9b5efb0a2939940378eed7f6af5e97bcfb
   }
 }
