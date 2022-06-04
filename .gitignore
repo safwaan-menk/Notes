@@ -4,3 +4,6 @@ build
 seeds
 .next
 pods/service-connections.next 
+
+dependencies\github.com\safwaan-menk\Notes
+dependencies\localhost\private

@@ -23,6 +23,10 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies\localhost\private
+            selfContained: true
+            name: private
+        -
             fsPath: .
             selfContained: true
             name: Public
@@ -84,12 +88,14 @@ preview:
     automaticallyShowPreview: false
 publishing:
     enableFMTitle: true
+    theme: dark
     enableNoteTitleForLink: true
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
-    siteurl: https://safwaan-menk.github.io/{REPO_NAME}/.
+    assetsPrefix: /Notes
+    siteurl: https://safwaan-menk.github.io/Notes/.
     siteHierarchies:
         - root
     writeStubs: false
@@ -108,3 +114,7 @@ publishing:
     enableRandomlyColoredTags: true
     enableTaskNotes: true
     enablePrettyLinks: true
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - Public
