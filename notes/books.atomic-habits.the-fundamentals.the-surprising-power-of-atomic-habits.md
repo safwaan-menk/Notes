@@ -2,7 +2,7 @@
 id: dgr7lmand3fxcubi8h5ee1j
 title: The Surprising Power of Atomic Habits
 desc: ''
-updated: 1654247629818
+updated: 1654284846277
 created: 1654242100981
 ---
 ### Why Small Habits Make a Big Difference
@@ -34,5 +34,4 @@ created: 1654242100981
 - Small changes appear to make no difference until you cross a critical threshold. Patience is required.
 - Focus on systems over goals
 - You don't rise to the level of your goals you fall to the level of your systems.
-- 
 
